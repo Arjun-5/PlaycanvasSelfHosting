@@ -1,0 +1,3 @@
+{
+  "query": "{ workspaces { playCanvas { contentTemplates { showRoom { contents { data { mainRoomContent { showRoomHeaders { elements { value } } showRoomImages { elements { value { publicUrl } } } showRoomVideos { elements { value { publicUrl } } } } } } } } } }}"
+}
